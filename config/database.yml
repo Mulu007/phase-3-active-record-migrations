@@ -1,3 +1,4 @@
+# This file is used by convention to give Active Record the necessary details about how to connect to our database
 development:
   adapter: sqlite3
   database: db/development.sqlite3
